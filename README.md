@@ -3,10 +3,11 @@
 Click on any number and it leaves you to the topic.
 
 1. [A simple iOS Application](https://github.com/c4arl0s/1ASimpleiOSApplication#1asimpleiosapplication) [ ]
-2. [Objective-C](https://github.com/c4arl0s/2ObjectiveC#2objectivec) [ \ ]
-3. [Memory Management](https://github.com/c4arl0s/3MemoryManagement#3memorymanagement) [ \ ]
-4. [Delegation and Core Location]() [ ]
-5. [MapKit and Text Input]() [ ]
+2. [Objective-C](https://github.com/c4arl0s/2ObjectiveC#2objectivec) [ X ]
+3. [Memory Management](https://github.com/c4arl0s/3MemoryManagement#3-memory-management---intro) [ X ]
+4. [Delegation and Core Location](https://github.com/c4arl0s/4DelegationAndCoreLocation#4-delegation-and-core-location) [ X ]
+5. [MapKit and Text Input]() [ X ]
+6. [Subclassing UIView](https://github.com/c4arl0s/6SubClassingUIView#6-subclassing-uiview) [ ]
 7. [View Controllers]() [ ]
 8. [The Accelerometer]() [ ]
 9. [Notification and Rotation]() [ ]
