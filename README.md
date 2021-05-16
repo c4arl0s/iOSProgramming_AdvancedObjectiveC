@@ -4,32 +4,32 @@
 
 Click on any number and it leaves you to the topic.
 
-1. [A simple iOS Application](https://github.com/c4arl0s/1ASimpleiOSApplicationObjectiveCMRC#1-a-simple-ios-application---content) [ X ]
-2. [Objective-C](https://github.com/c4arl0s/2ObjectiveC#2-objective-c---content) [ X ]
-3. [Memory Management](https://github.com/c4arl0s/3MemoryManagement#3-memory-management---content) [ X ]
-4. [Delegation and Core Location](https://github.com/c4arl0s/4DelegationAndCoreLocation#4-delegation-and-core-location---content) [ X ]
-5. [MapKit and Text Input](https://github.com/c4arl0s/5MapKitAndTextInput#5-map-kit-and-text-input---content) [ X ]
-6. [Subclassing UIView](https://github.com/c4arl0s/6SubClassingUIView#6-subclassing-uiview---content) [ X ]
-7. [View Controllers](https://github.com/c4arl0s/7ViewControllers#7-viewcontrollers---objectivec---mrc---content) [ X ]
-8. [The Accelerometer](https://github.com/c4arl0s/8TheAccelerometer#8-the-accelerometer---content) [ X ]
-9. [Notification and Rotation](https://github.com/c4arl0s/9NotificationAndRotation#9-notification-and-rotation---content) [ X ]
-10. [UITableView and UITableViewController](https://github.com/c4arl0s/10UITableViewAndUITableViewController_ObjectiveC#-10-uitableview-and-uitableviewcontroller-objectivec--content) [ X ]
-11. [Editing UITableView](https://github.com/c4arl0s/11EditingUITableView_ObjectiveC#11-editing-uitableview-objectivec---content) [ X ]
-12. [UINavigationController](https://github.com/c4arl0s/12UINavigationController#12-uinavigationcontroller---content) [ X ]
-13. [Camera](https://github.com/c4arl0s/13Camera_ObjectiveC_NoARC#13-camera---objectivec---noarc---content) [ X ]
-14. [UIPopoverController and Modal View Controllers](https://github.com/c4arl0s/14UIPopoverControllerAndModalViewControllers#14-uipopovercontroller-and-modalviewcontrollers---content) [ X ]
-15. [Saving, Loading and Multitasking](https://github.com/c4arl0s/15SavingLoadingAndMultitaskingObjectiveCNoARC#15-saving-loading-and-multitasking---content) [ X ]
-16. [Subclassing UITableViewCell](https://github.com/c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC#16-subclassingi-uitableviewcell---objectivec---noarc---content) [ X ]
-17. [Core Data](https://github.com/c4arl0s/17CoreData_ObjectiveC_NoARC#17-coredata---objectivec---noarc---content) [ X ]
-18. [Localization](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#18-localization---objectivec---mrc---content) [ X ]
-19. [Settings](https://github.com/c4arl0s/19Settings_MRCObjectiveC#19-settings---mrc---objectivec---content) [ X ]
-20. [Touch Events and UIResponder](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#20-touch-events-and-uiresponder---mrc-objectivec---content) [ X ]
-21. [Instruments](https://github.com/c4arl0s/21Instruments#21-instruments---content) [ X ]
-22. [Core Animation Layer](https://github.com/c4arl0s/22CoreAnimationLayer#22-core-animation-layer---content) [ X ]
-23. [Controlling Animation with CAAAnimation](https://github.com/c4arl0s/23ControllingAnimationWithCAAnimation#23-controlling-animation-with-caanimation---content) [ X ]
-24. [Blocks and Categories](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#24-blocks-and-categories---objectivec---mrc---content) [ X ]
-25. [Web Services and UIWebView](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#25-web-services-and-uiwebview---objectivec---mrc---content) [ X ]
-26. [UISplitViewController](https://github.com/c4arl0s/26UISplitViewControllerObjectriveCMRC#26-uisplitviewcontroller---objectrivec---mrc---content) [ X ]
-27. [Media Playback and Background Execution](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#27-media-playback-and-background-execution---objectivec---mrc---content) [ X ]
-28. [Bonjour and Web Servers](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#28-bonjour-and-web-servers---objectivec---mrc---content) [ X ]
-29. [Push Notifications and Networking](https://github.com/c4arl0s/29PushNotificationsAndNetworkingObjectiveCMRC#29-push-notifications-and-networking---objectivec---mrc---content) [ / ]
+1. [x] [1. A simple iOS Application](https://github.com/c4arl0s/1ASimpleiOSApplicationObjectiveCMRC#1-a-simple-ios-application---content)
+2. [x] [2. Objective-C](https://github.com/c4arl0s/2ObjectiveC#2-objective-c---content)
+3. [x] [3. Memory Management](https://github.com/c4arl0s/3MemoryManagement#3-memory-management---content)
+4. [x] [4. Delegation and Core Location](https://github.com/c4arl0s/4DelegationAndCoreLocation#4-delegation-and-core-location---content)
+5. [x] [5. MapKit and Text Input](https://github.com/c4arl0s/5MapKitAndTextInput#5-map-kit-and-text-input---content)
+6. [x] [6. Subclassing UIView](https://github.com/c4arl0s/6SubClassingUIView#6-subclassing-uiview---content)
+7. [x] [7. View Controllers](https://github.com/c4arl0s/7ViewControllers#7-viewcontrollers---objectivec---mrc---content)
+8. [x] [8. The Accelerometer](https://github.com/c4arl0s/8TheAccelerometer#8-the-accelerometer---content)
+9. [x] [9. Notification and Rotation](https://github.com/c4arl0s/9NotificationAndRotation#9-notification-and-rotation---content)
+10. [x] [10. UITableView and UITableViewController](https://github.com/c4arl0s/10UITableViewAndUITableViewController_ObjectiveC#-10-uitableview-and-uitableviewcontroller-objectivec--content)
+11. [x] [11. Editing UITableView](https://github.com/c4arl0s/11EditingUITableView_ObjectiveC#11-editing-uitableview-objectivec---content)
+12. [x] [12. UINavigationController](https://github.com/c4arl0s/12UINavigationController#12-uinavigationcontroller---content)
+13. [x] [13. Camera](https://github.com/c4arl0s/13Camera_ObjectiveC_NoARC#13-camera---objectivec---noarc---content)
+14. [x] [14. UIPopoverController and Modal View Controllers](https://github.com/c4arl0s/14UIPopoverControllerAndModalViewControllers#14-uipopovercontroller-and-modalviewcontrollers---content)
+15. [x] [15. Saving, Loading and Multitasking](https://github.com/c4arl0s/15SavingLoadingAndMultitaskingObjectiveCNoARC#15-saving-loading-and-multitasking---content)
+16. [x] [16. Subclassing UITableViewCell](https://github.com/c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC#16-subclassingi-uitableviewcell---objectivec---noarc---content)
+17. [x] [17. Core Data](https://github.com/c4arl0s/17CoreData_ObjectiveC_NoARC#17-coredata---objectivec---noarc---content)
+18. [x] [18. Localization](https://github.com/c4arl0s/18LocalizationObjectiveCMRC#18-localization---objectivec---mrc---content)
+19. [x] [19. Settings](https://github.com/c4arl0s/19Settings_MRCObjectiveC#19-settings---mrc---objectivec---content)
+20. [x] [20. Touch Events and UIResponder](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#20-touch-events-and-uiresponder---mrc-objectivec---content)
+21. [x] [21. Instruments](https://github.com/c4arl0s/21Instruments#21-instruments---content)
+22. [x] [22. Core Animation Layer](https://github.com/c4arl0s/22CoreAnimationLayer#22-core-animation-layer---content)
+23. [x] [23. Controlling Animation with CAAAnimation](https://github.com/c4arl0s/23ControllingAnimationWithCAAnimation#23-controlling-animation-with-caanimation---content)
+24. [x] [24. Blocks and Categories](https://github.com/c4arl0s/24BlocksAndCategoriesObjectiveCMRC#24-blocks-and-categories---objectivec---mrc---content)
+25. [x] [25. Web Services and UIWebView](https://github.com/c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC#25-web-services-and-uiwebview---objectivec---mrc---content)
+26. [x] [26. UISplitViewController](https://github.com/c4arl0s/26UISplitViewControllerObjectriveCMRC#26-uisplitviewcontroller---objectrivec---mrc---content)
+27. [x] [27. Media Playback and Background Execution](https://github.com/c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC#27-media-playback-and-background-execution---objectivec---mrc---content)
+28. [x] [28. Bonjour and Web Servers](https://github.com/c4arl0s/28BonjourAndWebServersObjectiveCMRC#28-bonjour-and-web-servers---objectivec---mrc---content)
+29. [ ] [29. Push Notifications and Networking](https://github.com/c4arl0s/29PushNotificationsAndNetworkingObjectiveCMRC#29-push-notifications-and-networking---objectivec---mrc---content)
