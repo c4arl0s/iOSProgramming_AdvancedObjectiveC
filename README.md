@@ -2,7 +2,7 @@
 
 # [iOSProgrammingAdvace_ObjectiveC](https://github.com/c4arl0s/iOSProgramming_AdvancedObjectiveC#go-back-to-overview)
 
-Click on any number and it leaves you to the topic.
+As a profesional I am always looking for new ways to be more productive and improve my knowledge, that’s why I started this project which allows me to recall how iOS development was in the past, specifically how was the memory management in Objective-C. Understanding the concepts: retain and release, developers were responsible to avoid leaks and premature deallocation, so they used tools (more frequently) like Static Analyzer and Instruments and took care of each allocated object. From this project these apps were born: Hypnosister, Homepwner, TouchTracker, Nerdfeed, Basic MediaPlayer and CocoaServer. Xcode 12 version and Manual Reference Counting settings were used. Click on any number and it leaves you to the topic.
 
 1. [x] [1. A simple iOS Application](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#1-a-simple-ios-application-using-mrc)
 2. [x] [2. Objective-C](https://github.com/c4arl0s/iOSProgrammingAdvaceMRCObjectiveCContentIndex#2-objective-c)
