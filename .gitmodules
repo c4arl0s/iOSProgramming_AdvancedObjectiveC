@@ -1,0 +1,84 @@
+[submodule "1ASimpleiOSApplicationObjectiveCMRC"]
+	path = 1ASimpleiOSApplicationObjectiveCMRC
+	url = git@github.com:c4arl0s/1ASimpleiOSApplicationObjectiveCMRC.git
+[submodule "2ObjectiveC"]
+	path = 2ObjectiveC
+	url = git@github.com:c4arl0s/2ObjectiveC.git
+[submodule "3MemoryManagement"]
+	path = 3MemoryManagement
+	url = git@github.com:c4arl0s/3MemoryManagement.git
+[submodule "4DelegationAndCoreLocation"]
+	path = 4DelegationAndCoreLocation
+	url = git@github.com:c4arl0s/4DelegationAndCoreLocation.git
+[submodule "5MapKitAndTextInput"]
+	path = 5MapKitAndTextInput
+	url = git@github.com:c4arl0s/5MapKitAndTextInput.git
+[submodule "6SubClassingUIView"]
+	path = 6SubClassingUIView
+	url = git@github.com:c4arl0s/6SubClassingUIView.git
+[submodule "7ViewControllers"]
+	path = 7ViewControllers
+	url = git@github.com:c4arl0s/7ViewControllers.git
+[submodule "8TheAccelerometer"]
+	path = 8TheAccelerometer
+	url = git@github.com:c4arl0s/8TheAccelerometer.git
+[submodule "10UITableViewAndUITableViewControllerObjectiveCMRC"]
+	path = 10UITableViewAndUITableViewControllerObjectiveCMRC
+	url = git@github.com:c4arl0s/10UITableViewAndUITableViewControllerObjectiveCMRC.git
+[submodule "11EditingUITableView_ObjectiveC"]
+	path = 11EditingUITableView_ObjectiveC
+	url = git@github.com:c4arl0s/11EditingUITableView_ObjectiveC.git
+[submodule "12UINavigationController"]
+	path = 12UINavigationController
+	url = git@github.com:c4arl0s/12UINavigationController.git
+[submodule "13Camera_ObjectiveC_NoARC"]
+	path = 13Camera_ObjectiveC_NoARC
+	url = git@github.com:c4arl0s/13Camera_ObjectiveC_NoARC.git
+[submodule "14UIPopoverControllerAndModalViewControllers"]
+	path = 14UIPopoverControllerAndModalViewControllers
+	url = git@github.com:c4arl0s/14UIPopoverControllerAndModalViewControllers.git
+[submodule "15SavingLoadingAndMultitaskingObjectiveCMRC"]
+	path = 15SavingLoadingAndMultitaskingObjectiveCMRC
+	url = git@github.com:c4arl0s/15SavingLoadingAndMultitaskingObjectiveCMRC.git
+[submodule "16SubclassingUITableViewCellObjectiveC_NoARC"]
+	path = 16SubclassingUITableViewCellObjectiveC_NoARC
+	url = git@github.com:c4arl0s/16SubclassingUITableViewCellObjectiveC_NoARC.git
+[submodule "17CoreData_ObjectiveC_NoARC"]
+	path = 17CoreData_ObjectiveC_NoARC
+	url = git@github.com:c4arl0s/17CoreData_ObjectiveC_NoARC.git
+[submodule "18LocalizationObjectiveCMRC"]
+	path = 18LocalizationObjectiveCMRC
+	url = git@github.com:c4arl0s/18LocalizationObjectiveCMRC.git
+[submodule "19Settings_MRCObjectiveC"]
+	path = 19Settings_MRCObjectiveC
+	url = git@github.com:c4arl0s/19Settings_MRCObjectiveC.git
+[submodule "20TouchEventsAndUIResponderMRCObjectiveC"]
+	path = 20TouchEventsAndUIResponderMRCObjectiveC
+	url = git@github.com:c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC.git
+[submodule "21Instruments"]
+	path = 21Instruments
+	url = git@github.com:c4arl0s/21Instruments.git
+[submodule "22CoreAnimationLayer"]
+	path = 22CoreAnimationLayer
+	url = git@github.com:c4arl0s/22CoreAnimationLayer.git
+[submodule "23ControllingAnimationWithCAAnimation"]
+	path = 23ControllingAnimationWithCAAnimation
+	url = git@github.com:c4arl0s/23ControllingAnimationWithCAAnimation.git
+[submodule "24BlocksAndCategoriesObjectiveCMRC"]
+	path = 24BlocksAndCategoriesObjectiveCMRC
+	url = git@github.com:c4arl0s/24BlocksAndCategoriesObjectiveCMRC.git
+[submodule "25WebServicesAndUIWebViewObjectiveCMRC"]
+	path = 25WebServicesAndUIWebViewObjectiveCMRC
+	url = git@github.com:c4arl0s/25WebServicesAndUIWebViewObjectiveCMRC.git
+[submodule "26UISplitViewControllerObjectriveCMRC"]
+	path = 26UISplitViewControllerObjectriveCMRC
+	url = git@github.com:c4arl0s/26UISplitViewControllerObjectriveCMRC.git
+[submodule "27MediaPlaybackAndBackgroundExecutionObjectiveCMRC"]
+	path = 27MediaPlaybackAndBackgroundExecutionObjectiveCMRC
+	url = git@github.com:c4arl0s/27MediaPlaybackAndBackgroundExecutionObjectiveCMRC.git
+[submodule "28BonjourAndWebServersObjectiveCMRC"]
+	path = 28BonjourAndWebServersObjectiveCMRC
+	url = git@github.com:c4arl0s/28BonjourAndWebServersObjectiveCMRC.git
+[submodule "29PushNotificationsAndNetworkingObjectiveCMRC"]
+	path = 29PushNotificationsAndNetworkingObjectiveCMRC
+	url = git@github.com:c4arl0s/29PushNotificationsAndNetworkingObjectiveCMRC.git
